@@ -84,73 +84,73 @@ Historical IPL dataset loaded into the notebook.
 
 2️⃣ Data Preprocessing
 
-Removed unnecessary columns
+* Removed unnecessary columns
 
-Handled missing values
+* Handled missing values
 
-Encoded categorical variables
+* Encoded categorical variables
 
-Converted data into model-friendly format
+* Converted data into model-friendly format
 
 3️⃣ Exploratory Data Analysis (EDA)
 
 Performed:
 
-Correlation analysis
+* Correlation analysis
 
-Heatmaps
+* Heatmaps
 
-Feature importance understanding
+* Feature importance understanding
 
-Trend visualization
+* Trend visualization
 
-Purpose: Understand which features influence the score.
+* Purpose: Understand which features influence the score.
 
 4️⃣ Feature Engineering
 
 Created meaningful features:
 
-Runs in last 5 overs
+* Runs in last 5 overs
 
-Wickets in last 5 overs
+* Wickets in last 5 overs
 
-Current run rate
+* Current run rate
 
-Player contributions
+* Player contributions
 
 5️⃣ Model Building (Deep Learning)
 
 A neural network model was built using:
 
-Input Layer
+* Input Layer
 
-Hidden Dense Layers
+* Hidden Dense Layers
 
-Activation Functions (ReLU)
+* Activation Functions (ReLU)
 
-Output Layer for regression
+* Output Layer for regression
 
 6️⃣ Model Training
 
-Data split into training & testing
+* Data split into training & testing
 
-Model trained using backpropagation
+* Model trained using backpropagation
 
-Loss function: Mean Squared Error (MSE)
+* Loss function: Mean Squared Error (MSE)
 
-Optimizer: Adam
+* Optimizer: Adam
 
 7️⃣ Model Evaluation
 
 Metrics used:
 
-MAE (Mean Absolute Error)
+* MAE (Mean Absolute Error)
 
-MSE (Mean Squared Error)
+* MSE (Mean Squared Error)
 
-R² Score
+* R² Score
 
-Lower error = Better prediction.
+* Lower error = Better prediction.
 
 # 📊 Results
 
